@@ -1,7 +1,7 @@
 <?php
 if ((isset($_POST['leter']))and(isset($_POST['number'])))
 {
-//       $leter_new=htmlspecialchars( $_POST['leter']);
+//    $leter_new=htmlspecialchars( $_POST['leter']);
 //    $number_new=htmlspecialchars( $_POST['number']);
 
 
